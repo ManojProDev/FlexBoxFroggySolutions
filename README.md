@@ -1,2 +1,3 @@
 # FlexBoxFroggySolutions
-CSS Flexbox Solutions
+
+If you want to practice CSS Flexbox properties check out this link https://flexboxfroggy.com/
